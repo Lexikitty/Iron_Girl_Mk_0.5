@@ -1,0 +1,2120 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 680 (ID=0x1180)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\lexikitty\Dropbox\Project Files\Unity\HUD Builds\Windows\03\HUD_Mk05_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+HD Webcam C615
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CameraFeedGUI:Start() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\CameraFeedGUI.js:7)
+ 
+(Filename: C Line: 0)
+
+PC Cam
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CameraFeedGUI:Start() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\CameraFeedGUI.js:7)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.02
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.50 -10.46 98.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.84
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.72 -10.38 101.66
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.09
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+tation: -37.82 -10.47 101.50
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.44
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.64 -10.27 103.33
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.68
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.82 -10.68 99.75
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+211.94
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.68 -10.22 103.33
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.17
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.64 -10.27 106.15
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+-37.82 -10.03 102.46
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.93
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -38.13 -10.47 99.21
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.82 -10.47 99.68
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.75
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -38.13 -10.47 101.16
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.92
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.55 -10.16 104.58
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.32 -10.70 97.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.69
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.68 -10.22 102.18
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.51
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.86 -10.41 101.85
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.08
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.46 -10.30 98.77
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.78 -10.30 100.02
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.93
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.50 -10.02 104.46
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.68
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.50 -10.46 102.12
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.92
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.64 -10.05 105.24
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -38.13 -10.25 100.79
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.94
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.95 -10.50 99.20
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.93
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+ion: -37.82 -10.47 100.14
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.51
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.86 -11.06 96.30
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.64 -10.05 103.92
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+1.94
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.82 -10.68 99.65
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.68
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.60 -10.33 101.09
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+58 -10.56 98.53
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.51
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.05 -10.42 98.10
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.60 -10.33 98.30
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.09
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.78 -10.30 99.45
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.67
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -38.17 -10.42 97.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.93
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.35
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -38.31 -10.45 98.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -38.09 -10.75 93.63
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.34
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.46 -10.52 95.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.34
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.82 -10.47 96.67
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.92
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.82 -10.47 96.20
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.09
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+ation: -37.86 -10.41 97.12
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.64 -10.49 100.81
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.50 -10.89 94.02
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+212.10
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.64 -10.49 101.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.93
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.50 -10.24 101.17
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.84
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+38.13 -10.47 98.94
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.26
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.91 -10.55 97.02
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.84
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.72 -10.16 104.04
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.08
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.50 -10.46 99.26
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.95 -10.28 99.81
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.17
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+65 98.62
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.59
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -38.27 -10.72 95.97
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.93
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.86 -9.98 101.09
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.92
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.64 -10.49 97.15
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.91 -10.55 96.83
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.26
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.84
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -38.13 -10.25 99.07
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.72 -10.59 98.16
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.92
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.68 -10.22 100.18
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.85
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.68 -10.43 101.36
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.84
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.82 -10.47 96.95
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.84
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+ation: -37.95 -10.50 99.01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.69
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.50 -10.68 99.17
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.67
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.99 -10.22 103.65
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+211.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.82 -10.25 101.03
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.68
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.78 -10.74 96.54
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.93
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+7.95 -10.06 101.48
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.94
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.82 -10.47 98.72
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.54 -9.97 102.33
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.93
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.64 -10.05 105.46
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.86 -10.41 97.36
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.94
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+1 98.52
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.77
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -38.27 -10.72 94.50
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.68 -10.43 100.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.93
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.68 -10.43 98.80
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -38.13 -10.47 99.02
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.26
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.72 -10.16 101.91
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.54 -10.19 104.00
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.93
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.86 -10.19 101.48
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.93
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.68 -10.43 100.04
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.68
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.58 -10.56 100.89
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.93
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.28 -10.32 101.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.94
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+tation: -38.09 -10.75 96.45
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.64 -10.71 97.98
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.84
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.50 -10.46 101.22
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+211.52
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.86 -10.19 103.35
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.34
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.72 -10.16 103.09
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.85
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+-37.64 -10.27 101.61
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.94
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.29
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.86 -10.19 100.67
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -38.13 -10.25 98.39
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.50 -10.24 98.20
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.59
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.36 -9.99 103.05
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+.25 97.82
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -38.13 -10.25 97.48
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -212.01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.91 -10.99 92.43
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.93
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.86 -9.98 103.33
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.84
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.99 -10.22 101.64
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.64 -10.71 97.48
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.59
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.27
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Orientation: -37.82 -10.68 96.58
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Alt: -211.60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
+Temp: 21.28
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SerialTest1:Update() (at C:\Users\lexikitty\Documents\HUD Testing 1\Assets\SerialTest1.cs:24)
+ 
+(Filename: C Line: 0)
+
